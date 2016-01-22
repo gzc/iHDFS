@@ -14,5 +14,17 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+
+
+    <dependency>
+      <groupId>com.thetransactioncompany</groupId>
+      <artifactId>jsonrpc2-base</artifactId>
+      <version>1.39</version>
+      <scope>system</scope>
+      <systemPath>/home/dihuang/zhenchao/LDFS/my-dfs/src/main/resources/jsonrpc2-base-1.39-SNAPSHOT.jar</systemPath>
+    </dependency>
+
   </dependencies>
+
+
 </project>
